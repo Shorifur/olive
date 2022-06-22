@@ -1,0 +1,1 @@
+This is a fun project whitout and javascript . Only Html and Css
